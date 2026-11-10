@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Database & Docker Volumes
+postgres_data/
+prometheus_data/
+grafana_data/
+
+# OS
+.DS_Store
+Thumbs.db
